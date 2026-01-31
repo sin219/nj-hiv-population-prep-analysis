@@ -1,25 +1,30 @@
-# nj-hiv-population-prep-analysis
-SQL and Excel-based analysis of New Jersey HIV population and PrEP trends.
+# Public Health & Population Data Analysis (SQL + Excel)
 
-## Overview
-This project analyzes New Jersey HIV population and PrEP-related data using SQL and Excel. 
-The goal is to explore population trends, identify patterns, and support data-driven insights.
+This project delivers a structured, data-driven analysis of public health and population trends using SQL for data extraction and transformation, and Excel for validation, aggregation, and analytical synthesis.
 
-## Tools Used
-- SQL (data extraction, joins, aggregations)
-- Microsoft Excel (data cleaning, validation, analysis, and visualization)
+## Project Objective
+To leverage relational database querying and spreadsheet-based analysis to examine population and public health metrics, identify patterns across datasets, and convert raw data into interpretable, decision-ready insights.
 
-## Methodology
-1. Queried and joined datasets using SQL to extract relevant population and PrEP metrics.
-2. Exported query results into Excel for cleaning and validation.
-3. Built structured tables and summary views to analyze trends and relationships.
+## Analytical Approach
+- Queried and analyzed multi-table datasets using **SQL joins, aggregations, and conditional logic** to extract relevant population and health indicators.
+- Structured and validated query outputs in Excel to ensure data accuracy and consistency.
+- Applied aggregations and summary calculations to evaluate trends and relationships across variables.
+- Synthesized findings into organized analytical views suitable for downstream reporting and interpretation.
 
-## Files
-- `nj-hiv-pop-prep.sql`— SQL queries used for data extraction and analysis.
-- `nj-hiv-pop-prep.xlsx` — Cleaned data, analysis, and supporting visuals.
+## Tools & Techniques
+- SQL (JOINs, GROUP BY, WHERE clauses, aggregate functions, subqueries)
+- Microsoft Excel
+- Data validation and cleaning
+- Relational data analysis
+- Quantitative trend evaluation
 
 ## Key Skills Demonstrated
-- SQL joins, aggregations, and filtering
-- Data cleaning and validation
-- Analytical reasoning and trend analysis
-- Translating raw data into structured insights
+- Relational database querying and analysis  
+- Data extraction, transformation, and validation  
+- Translating SQL outputs into analytical insights  
+- Structured problem-solving with data  
+- End-to-end analytical workflow execution  
+
+## Files
+- `nj-hiv-pop-prep.sql` — SQL queries used for data extraction and analysis  
+- `nj-hiv-pop-prep.xlsx` — Excel-based validation, aggregation, and analytical outputs
